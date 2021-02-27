@@ -2,9 +2,9 @@
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-- **#### lead Generation** : Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
-- **#### Brand Awareness** : Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
-- **#### Cost Management** : As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
+- **lead Generation** : Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
+- **Brand Awareness** : Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
+- **Cost Management** : As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
 
 ![Alt text](/assets/images/digital-marketing-meeting.jpg?raw=true "Optional Title")
