@@ -32,3 +32,4 @@ Social media continues to have a sizable influence on buying habits. Social medi
 ![Alt text](/assets/images/screencapture-file-C-Users-Accounting-Desktop-challenge-challengefeb282021-index-html-2021-02-27-12_37_32.png?raw=true "Optional Title")
 
 ## Website Deploy
+https://swanpham.github.io/challengefeb282021/
