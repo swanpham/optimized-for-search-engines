@@ -1,4 +1,6 @@
-# AS A MARKETING AGENCY
+# Optimized For Search Engines
+
+## AS A MARKETING AGENCY
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
